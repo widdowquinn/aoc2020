@@ -1,1 +1,7 @@
+# VS code config
+.vscode/
+
+# Unnecessary Python files
+*.pyc
+__pycache__/
 .ipynb_checkpoints/
