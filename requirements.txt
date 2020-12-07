@@ -1,2 +1,4 @@
 jupyter
+matplotlib
+networkx
 numpy
